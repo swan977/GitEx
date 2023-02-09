@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-dbdev
-=======
-dbprod
->>>>>>> prod
+sth
